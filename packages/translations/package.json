@@ -1,0 +1,10 @@
+{
+  "name": "@namespace/translations",
+  "version": "1.0.0",
+  "description": "Translations for i18next loader",
+  "author": "Thomas Kuhlmann <thomas.kuhlmann@kreelu.com>",
+  "main": "index.js",
+  "dependencies": {
+    "cross-env": "^7.0.3"
+  }
+}
